@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 num_1 = int(input("Введите 1 число "))
 num_2 = int(input("Введите 2 число "))
 num_3 = int(input("Введите 3 число "))

@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 seconds = int(input("Введите число секунд "))
 day = seconds // 86400
 hour = (seconds - day * 86400) // 3600

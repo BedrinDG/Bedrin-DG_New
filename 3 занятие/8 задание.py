@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 def Zadanie_8(x, y, z):
     if x == y == z:
         print("3")

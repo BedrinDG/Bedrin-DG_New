@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 n = int(input("Введите число минут "))
 if n > 1440:
     while n > 1440:

@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 age = int(input("Введите ваш возраст "))
 name = input("Введите ваше имя ")
 name_1 = {'Иван', 'иван', 'Ваня','ваня', 'ivan', 'Ivan', 'Vanya', 'vanya'}
