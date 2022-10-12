@@ -1,10 +1,8 @@
 # -- coding: utf-8 --
-n = int(input("Введите число n: "))
-N = n + 1
-n_1 = 0
-n_2 = 1
-for i in range(1, N):
-        n_2 *= i
-        n_1 += n_2
+n_1 = 1
+n = int(input("Введите любое число "))
+for i in range(1, n):
+    n_1 *= i
+n_1 *= n
 print(n_1)
         
